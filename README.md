@@ -16,6 +16,6 @@ Contains:
 
 ## Credits (sorry if I missed someone or made a mistake, please let me know!)
 
-- Romka  (original models for: Female Assassin, Otis, Barney, and others but can't confirm which)
+- Romka  (original models for: Female Assassin, Otis, Barney, Kate and others but can't confirm which)
 - DNIO071, Norman (HD retextures and UV mapping of new HEV HD player models)
 - SV BOY (several models with fixed mouth controllers, uv, and meshes)
