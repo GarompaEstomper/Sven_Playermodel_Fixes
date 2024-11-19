@@ -1,5 +1,5 @@
 # Sven Co-op Playermodel Fixes pack
-for Sven Co-op 5.o+ modified by Garompa, as of 14/09/2024
+for Sven Co-op 5.0+ modified by Garompa, as of 14/09/2024
 
 ## Links
 [GoogleDrive](https://drive.google.com/file/d/1cnLtujENIHH3xhTVr2C1hq_QqECUpkPV/view?usp=sharing)
