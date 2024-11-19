@@ -1,2 +1,17 @@
-# Sven_Playermodel_Fixes
-Contains several fixes to existing playermodels for Sven Co-op
+# Sven Co-op Playermodel Fixes pack
+for Sven Co-op 5.o+ modified by Garompa, as of 14/09/2024
+
+## Description
+
+Contains:
+- HD retextures of several models
+- UV mapping fixes
+- Colorable colors fixes
+- Mouth bones fixes (they now exist in the models that were missing)
+
+
+## Credits (sorry if I missed someone or made a mistake, please let me know!)
+
+- Romka  (original models for: Female Assassin, Otis, Barney, and others but can't confirm which)
+- DNIO071, Norman (HD retextures and UV mapping of new HEV HD player models)
+- SV BOY (several models with fixed mouth controllers, uv, and meshes)
